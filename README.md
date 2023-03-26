@@ -10,6 +10,13 @@ todo
 - [ ] create links for each platform
     - [ ] instagram
     - [ ] redbubble
+    - [ ] linkedin
+    - [ ] twitter
+    - [ ] discord
+    - [ ] portfolio
+    - [ ] resume
+    - [ ] trello
+    - [ ] email
     - [ ] github
     - [ ] tiktok
     - [ ] twitch
