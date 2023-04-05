@@ -1,15 +1,19 @@
-const modal = document.querySelector('.modal');
+const modal = document.querySelector('dialog');
 const openModal = document.querySelector('.open-modal');
 const closeModal = document.querySelector('.close-modal');
+const body = document.querySelector('body');
 
-openModal.addEventListener('click', () => {
-    modal.showModal();
-});
-closeModal.addEventListener('click', () => {
-    modal.close();
-});
+function onClick(event) {
+    if (event.target === modal) modal.close();
+}
+
+modal.addEventListener('click', onClick);
+openModal.addEventListener('click', () => modal.showModal());
+
 
 // ------------------------------------------------------
+
+
 const links = [
     { title: 'twitch', url: 'https://www.twitch.tv/morbidlyocheese', icon: 'https://simpleicons.org/icons/twitch.svg', description: '', label: 'twitch' },
     { title: 'twitter', url: 'https://twitter.com/morbidlyocheese', icon: 'https://simpleicons.org/icons/twitter.svg', description: '', label: 'twitter' },
