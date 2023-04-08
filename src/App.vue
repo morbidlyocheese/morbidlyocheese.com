@@ -1,5 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <img alt="moc logo" src="./assets/logo_cowbert.png" width="200" >
   <HelloWorld msg="morbidlyocheese.com"/>
   <HomePage/>
 </template>
