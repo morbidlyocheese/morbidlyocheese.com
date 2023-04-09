@@ -2,17 +2,20 @@
   <img alt="moc logo" src="./assets/logo_cowbert.png" width="200" >
   <HelloWorld msg="morbidlyocheese.com"/>
   <HomePage/>
+  <ComicNav/>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 import HomePage from './components/HomePage.vue';
+import ComicNav from './components/ComicNav.vue';
 
 export default {
   name: 'App',
   components: {
     HelloWorld,
-    HomePage
+    HomePage,
+    ComicNav
   }
 }
 </script> 
