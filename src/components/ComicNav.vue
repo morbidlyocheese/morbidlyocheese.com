@@ -3,9 +3,13 @@
         <div class="content-container">
             <div class="content">
                 <h1>{{ msg }}</h1>
-                <a class='link' v-for="link in links" :key='link.label' :href="link.url" target="_blank">
-                    <img class='icon' :src="link.icon" :alt="link.label" width="16" height="16">{{ link.title }}
-                </a>
+                <li class='comics' v-for="comic in comics" :key='comic.comicTitle' target="_blank">
+                    <router-link :to="{ name: 'comic', params: { comicTitle: comic.name } }">
+                        <img :src='comic.comicCover' :alt='comic.name'>
+                    </router-link>
+                    <h2 class="comic-name">{{ comic.name }}</h2>
+                    <p class="comic-desc">{{ comic.comicDesc }}</p>
+                </li>
             </div>
         </div>
     </div>
@@ -18,14 +22,23 @@ export default {
             name: 'ComicNav',
             comics: [
                 { 
-                    comicTitle: '',
-                    comicDesc: '',
-                    comicCover: '',
+                    comicTitle: 'Comic Name',
+                    comicDesc: 'A brief description of the comic',
+                    comicCover: '/path/to/comic/cover.png',
                     comicCharacters: [
-                        
+                        { 
+                            name: 'Character Name',
+                            tbd: 'rest of character info to be displayed',
+                        },
+                        // rest of characters
                     ],
-                    comicPages: [
-
+                    tableOfContents: [
+                        {
+                            pageNumber: 1,
+                            pageTitle: 'Page Title',
+                            pageDesc: 'A brief description of the page',
+                            pageImg: '/path/to/page/img.png',
+                        }
                     ]
                 },
             ],

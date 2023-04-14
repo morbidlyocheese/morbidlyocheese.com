@@ -12,24 +12,24 @@ website for morbidlyocheese handle
 
 todo
 ---
-- [ ] design wireframe of site
-- [ ] find color palette
-- [ ] figure out framework/library to use
+- [x] design wireframe of site
+- [x] find color palette
+- [x] figure out framework/library to use
     - to handle webcomic things
 - [ ] create links for each platform
     - [x] instagram
-    - [ ] redbubble
-    - [ ] linkedin
+    - [x] redbubble
+    - [x] linkedin
     - [x] twitter
     - [x] discord
-    - [ ] portfolio
-    - [ ] resume
+    - [x] portfolio
+    - [x] resume
     - [ ] trello
-    - [ ] email
-    - [ ] github
+    - [x] email
+    - [x] github
     - [ ] tiktok
     - [x] twitch
-    - [ ] youtube
+    - [x] youtube
 
 
 possible | look into
