@@ -1,6 +1,9 @@
 # morbidlyocheese.com
 website for morbidlyocheese handle
 
+### development
+- locally: `http://localhost:8080/`
+
 ### wireframe [page design]
 ![figma wireframe v1](/images/doc-images/whole%20page.png)
 [figma wireframe](https://www.figma.com/file/8wSXTsPmD6kIK58wbe2xGa/morbidlyocheese.com-wireframe?t=fdBA3VkbNBu9I0V6-1)
@@ -9,24 +12,24 @@ website for morbidlyocheese handle
 
 todo
 ---
-- [ ] design wireframe of site
-- [ ] find color palette
-- [ ] figure out framework/library to use
+- [x] design wireframe of site
+- [x] find color palette
+- [x] figure out framework/library to use
     - to handle webcomic things
 - [ ] create links for each platform
-    - [ ] instagram
-    - [ ] redbubble
-    - [ ] linkedin
-    - [ ] twitter
-    - [ ] discord
-    - [ ] portfolio
-    - [ ] resume
+    - [x] instagram
+    - [x] redbubble
+    - [x] linkedin
+    - [x] twitter
+    - [x] discord
+    - [x] portfolio
+    - [x] resume
     - [ ] trello
-    - [ ] email
-    - [ ] github
+    - [x] email
+    - [x] github
     - [ ] tiktok
-    - [ ] twitch
-    - [ ] youtube
+    - [x] twitch
+    - [x] youtube
 
 
 possible | look into
