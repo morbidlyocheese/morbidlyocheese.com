@@ -19,7 +19,7 @@ export default {
             name: 'morbidlyocheese.com',
             links: [
                 { title: 'twitch', url: 'https://www.twitch.tv/morbidlyocheese', icon: 'https://simpleicons.org/icons/twitch.svg', description: '', label: 'twitch' },
-                { title: 'ko-fi', url: 'https://ko-fi.com/morbidlyocheese', icon: 'https://simpleicons.org/icons/ko-fi.svg', description: '', label: 'ko-fi' },
+                { title: 'ko-fi', url: 'https://ko-fi.com/morbidlyocheese', icon: 'https://simpleicons.org/icons/kofi.svg', description: '', label: 'ko-fi' },
                 { title: 'twitter', url: 'https://twitter.com/morbidlyocheese', icon: 'https://simpleicons.org/icons/twitter.svg', description: '', label: 'twitter' },
                 { title: 'instagram', url: 'https://www.instagram.com/morbidlyocheese/', icon: 'https://simpleicons.org/icons/instagram.svg', description: '', label: 'instagram' },
                 { title: 'discord server', url: 'https://discord.com/invite/8b5dM2hE6N', icon: 'https://simpleicons.org/icons/discord.svg', description: '', label: 'discord invite' },
