@@ -20,8 +20,9 @@ export default {
             links: [
                 { title: 'twitch', url: 'https://www.twitch.tv/morbidlyocheese', icon: 'https://simpleicons.org/icons/twitch.svg', description: '', label: 'twitch' },
                 { title: 'ko-fi', url: 'https://ko-fi.com/morbidlyocheese', icon: 'https://simpleicons.org/icons/kofi.svg', description: '', label: 'ko-fi' },
-                { title: 'itch.io', url: 'https://morbidlyocheese.itch.io', icon: 'https://simpleicons.org/icons/itchdotio.svg', description: '', label: 'itch.io' },
                 { title: 'instagram', url: 'https://www.instagram.com/morbidlyocheese/', icon: 'https://simpleicons.org/icons/instagram.svg', description: '', label: 'instagram' },
+                { title: 'fourthwall', url: 'https://morbidlyocheese-shop.fourthwall.com', icon: 'https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://fourthwall.com&size=128', description: '', label: 'fourthwall' },
+                { title: 'itch.io', url: 'https://morbidlyocheese.itch.io', icon: 'https://simpleicons.org/icons/itchdotio.svg', description: '', label: 'itch.io' },
                 { title: 'discord server', url: 'https://discord.com/invite/8b5dM2hE6N', icon: 'https://simpleicons.org/icons/discord.svg', description: '', label: 'discord invite' },
                 { title: 'twitter', url: 'https://twitter.com/morbidlyocheese', icon: 'https://simpleicons.org/icons/twitter.svg', description: '', label: 'twitter' },
                 { title: 'github', url: 'https://github.com/morbidlyocheese', icon: 'https://simpleicons.org/icons/github.svg', description: 'github', label: 'github' },
@@ -31,7 +32,7 @@ export default {
                 { title: 'redbubble', url: 'https://www.redbubble.com/people/djangosolarboy/shop?asc=u&ref=account-nav-dropdown', icon: 'https://simpleicons.org/icons/redbubble.svg', description: '', label: 'redbubble' },
                 { title: 'portfolio', url: 'https://damienjacobson.netlify.app/', icon: 'https://github.com/morbidlyocheese/new-portfolio/blob/primary/favicon-32x32.png?raw=true', description: '', label: 'portfolio' },
                 { title: 'youtube', url: 'https://www.youtube.com/@morbidlyocheese/', icon: 'https://simpleicons.org/icons/youtube.svg', description: '', label: 'youtube' },
-                // { title: '', url: '', icon: '', description: '', label: 'github' },
+                // { title: '', url: '', icon: '', description: '', label: '' },
             ]
         }
     }
