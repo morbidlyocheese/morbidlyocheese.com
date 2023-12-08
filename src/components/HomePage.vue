@@ -67,11 +67,11 @@ export default {
 }
 
 .icon, .link {
-    filter: invert(.5) sepia(2) saturate(4) hue-rotate(280deg);
+    filter: invert(.5) sepia(2) saturate(4) hue-rotate(370deg);
 }
 
 .icon:hover, .link:hover {
-    filter: invert(.5) sepia(2) saturate(4) hue-rotate(370deg);
+    filter: invert(.5) sepia(2) saturate(4) hue-rotate(280deg);
 }
 
 .name {
