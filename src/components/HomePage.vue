@@ -29,7 +29,7 @@ export default {
                 { title: 'linkedin', url: 'https://www.linkedin.com/in/damienjacobson/', icon: 'https://simpleicons.org/icons/linkedin.svg', description: '', label: 'linkedin' },
                 { title: 'email', url: 'emailto:morbidlyocheese@gmail.com', icon: 'https://simpleicons.org/icons/gmail.svg', description: 'email', label: 'email' },
                 { title: 'resume', url: 'https://docs.google.com/document/d/e/2PACX-1vS2yMVlCtPWw2CsNfkq1JchQ0_cMFK3_OC3NvbRwm3mMCsjLseSHNCpSyjhpI_QzHeYFlpY7HjFp9c3/pub', icon: 'https://damienjacobson.netlify.app/data/social/resume-icon.png', description: '', label: 'resume' },
-                { title: 'redbubble', url: 'https://www.redbubble.com/people/djangosolarboy/shop?asc=u&ref=account-nav-dropdown', icon: 'https://simpleicons.org/icons/redbubble.svg', description: '', label: 'redbubble' },
+                { title: 'redbubble', url: 'https://www.redbubble.com/people/morbidlyocheese/', icon: 'https://simpleicons.org/icons/redbubble.svg', description: '', label: 'redbubble' },
                 { title: 'portfolio', url: 'https://damienjacobson.netlify.app/', icon: 'https://github.com/morbidlyocheese/new-portfolio/blob/primary/favicon-32x32.png?raw=true', description: '', label: 'portfolio' },
                 { title: 'youtube', url: 'https://www.youtube.com/@morbidlyocheese/', icon: 'https://simpleicons.org/icons/youtube.svg', description: '', label: 'youtube' },
                 // { title: '', url: '', icon: '', description: '', label: '' },
