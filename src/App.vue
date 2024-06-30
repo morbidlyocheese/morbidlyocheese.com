@@ -19,15 +19,17 @@ export default {
 <style>
 
 html {
-  background-image: url(./assets/background.png);
+  background-color: #f1eea1de;
+  background-image: url(./assets/backgroundv2.png);
   background-size: contain;
   background-repeat: repeat;
 }
 
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-weight: 500;
   text-align: center;
   margin-top: 60px;
   display: flex;
@@ -38,11 +40,11 @@ html {
 
 .page-container {
   max-width: 30%;
-  border-radius: 5px;
+  border-radius: 10px;
   min-width: 380px;
   min-height: 509px;
-  background-color: #ff96eade;
-  border: 2px solid #ffa600;
+  background-color: #F1EFA1;
+  border: 2px solid #EA94C5;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 </style>

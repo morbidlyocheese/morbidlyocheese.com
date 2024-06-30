@@ -1,9 +1,9 @@
 # morbidlyocheese.com
-website for morbidlyocheese handle
+website for morbidlyocheese handle (*think linktr.ee*)
 
-![screenshot of website](./images/doc-images/moc-website.png)
+![screenshot of website](./images/doc-images/moc.png)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fa4701f5-1c4a-43e1-a35f-5e742b79712c/deploy-status)](https://app.netlify.com/sites/morbidlyocheese/deploys) [![wakatime](https://wakatime.com/badge/github/morbidlyocheese/morbidlyocheese.com.svg)](https://wakatime.com/badge/github/morbidlyocheese/morbidlyocheese.com) [![codiga grade](https://api.codiga.io/project/36248/score/svg)](https://app.codiga.io/hub/project/36248/morbidlyocheese.com)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fa4701f5-1c4a-43e1-a35f-5e742b79712c/deploy-status)](https://app.netlify.com/sites/morbidlyocheese/deploys) [![wakatime](https://wakatime.com/badge/github/morbidlyocheese/morbidlyocheese.com.svg)](https://wakatime.com/badge/github/morbidlyocheese/morbidlyocheese.com)
 
 ---
 
@@ -86,12 +86,13 @@ within the `/src/components` is where the page's content is located. the `HomePa
     - [ ] tiktok
     - [x] twitch
     - [x] youtube
+    - [ ] coolors
 
 ---
 
 #### possible | look into
 - displaying last tweet on home page -> mostly for notification of stream changes
-- ways to display images and such for the webcomic -> lookinto frameworks/apis
+- ways to display images and such for the webcomic -> look into frameworks/apis
 
 ---
 
@@ -105,8 +106,13 @@ within the `/src/components` is where the page's content is located. the `HomePa
     - display the folder/file structure
 - Netlify
     - site host
+- [CSS Color Filter Generator](https://angel-rs.github.io/css-color-filter-generator/)
+    - color filter for links
+- Google Fonts
+- [Coolors](https://coolors.co/palette/e1dd59-ea94c5-4b737c-f1efa1)
+    - color palette
 
 ---
 
 ### shields
-![](https://img.shields.io/badge/-HTML-FFCE00?style=flat-square&logo=html5&logoColor=FF96EA)![](https://img.shields.io/badge/-CSS-FFCE00?style=flat-square&logo=css3&logoColor=FF96EA)![](https://img.shields.io/badge/-VUE.JS-FFCE00?style=flat-square&logo=vue.js&logoColor=FF96EA)![](https://img.shields.io/badge/-JS-FFCE00?style=flat-square&logo=javascript&logoColor=FF96EA)
+![](https://img.shields.io/badge/-HTML-F1EFA1?style=flat-square&logo=html5&logoColor=EA94C5)![](https://img.shields.io/badge/-CSS-F1EFA1?style=flat-square&logo=css3&logoColor=EA94C5)![](https://img.shields.io/badge/-VUE.JS-F1EFA1?style=flat-square&logo=vue.js&logoColor=EA94C5)![](https://img.shields.io/badge/-JS-F1EFA1?style=flat-square&logo=javascript&logoColor=EA94C5)
