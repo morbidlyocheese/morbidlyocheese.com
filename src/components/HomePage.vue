@@ -21,13 +21,12 @@ export default {
                 { title: 'Twitch', url: 'https://www.twitch.tv/morbidlyocheese', icon: 'https://simpleicons.org/icons/twitch.svg', description: '', label: 'twitch' },
                 { title: 'Ko-fi', url: 'https://ko-fi.com/morbidlyocheese', icon: 'https://simpleicons.org/icons/kofi.svg', description: '', label: 'ko-fi' },
                 { title: 'Instagram', url: 'https://www.instagram.com/morbidlyocheese/', icon: 'https://simpleicons.org/icons/instagram.svg', description: '', label: 'instagram' },
-                // { title: 'se tips', url: 'https://streamelements.com/morbidlyocheese-3cd99/tip', icon: 'https://s7.ezgif.com/tmp/ezgif-7-4946ceb84f.png', description: '', label: 'streamelements tips' },
                 { title: 'Amazon Wishlist', url: 'https://www.amazon.com/hz/wishlist/ls/18Q2VMNYLFLK5?ref_=wl_share', icon: 'https://simpleicons.org/icons/amazon.svg', description: '', label: 'amazon wishlist' },
                 { title: 'Redbubble', url: 'https://morbidlyocheese.redbubble.com', icon: 'https://simpleicons.org/icons/redbubble.svg', description: '', label: 'redbubble' },
                 { title: 'Fourthwall', url: 'https://morbidlyocheese-shop.fourthwall.com', icon: 'https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://fourthwall.com&size=128', description: '', label: 'fourthwall' },
                 { title: 'itch.io', url: 'https://morbidlyocheese.itch.io', icon: 'https://simpleicons.org/icons/itchdotio.svg', description: '', label: 'itch.io' },
                 { title: 'Discord', url: 'https://discord.gg/XkW4fWGVUu', icon: 'https://simpleicons.org/icons/discord.svg', description: '', label: 'discord invite' },
-                { title: 'X', url: 'https://x.com/morbidlyocheese', icon: 'https://simpleicons.org/icons/x.svg', description: '', label: 'twitter' },
+                { title: 'Bluesky', url: 'https://bsky.app/profile/morbidlyocheese.bsky.social', icon: 'https://simpleicons.org/icons/bluesky.svg', description: '', label: 'bluesky' },
                 { title: 'Github', url: 'https://github.com/morbidlyocheese', icon: 'https://simpleicons.org/icons/github.svg', description: 'github', label: 'github' },
                 { title: 'Linkedin', url: 'https://www.linkedin.com/in/damienjacobson/', icon: 'https://simpleicons.org/icons/linkedin.svg', description: '', label: 'linkedin' },
                 { title: 'Email', url: 'emailto:morbidlyocheese@gmail.com', icon: 'https://simpleicons.org/icons/gmail.svg', description: 'email', label: 'email' },
@@ -69,6 +68,7 @@ export default {
     margin: 5px;
     padding: 5px;
     text-decoration: none;
+    flex-basis: 100%;
 }
 
 .name {
