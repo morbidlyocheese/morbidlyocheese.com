@@ -23,7 +23,7 @@ export default {
                 { title: 'Bluesky', url: 'https://bsky.app/profile/morbidlyocheese.itch.io', icon: 'https://simpleicons.org/icons/bluesky.svg', description: '', label: 'bluesky' },
                 { title: 'Straw.page', url: 'https://straw.page/draw?bio%3Dmorbidlyocheese', icon: 'https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://straw.page/draw?bio%3Dmorbidlyocheese&size=128', description: '', label: 'straw.page' },
                 { title: 'Instagram', url: 'https://www.instagram.com/morbidlyocheese/', icon: 'https://simpleicons.org/icons/instagram.svg', description: '', label: 'instagram' },
-                { title: 'itch.io', url: 'https://staycheesygames.itch.io', icon: 'https://simpleicons.org/icons/itchdotio.svg', description: '', label: 'itch.io' },
+                { title: 'itch.io', url: 'https://morbidlyocheese.itch.io', icon: 'https://simpleicons.org/icons/itchdotio.svg', description: '', label: 'itch.io' },
                 { title: 'Sketchfab', url: 'https://sketchfab.com/morbidlyocheese', icon: 'https://simpleicons.org/icons/sketchfab.svg', description: '', label: 'sketchfab' },
                 { title: 'hashnode', url: 'https://hashnode.com/@morbidlyocheese', icon: 'https://simpleicons.org/icons/hashnode.svg', description: '', label: 'hashnode' },
                 { title: 'daily.dev', url: 'https://app.daily.dev/morbidlyocheese', icon: 'https://simpleicons.org/icons/dailydotdev.svg', description: '', label: 'daily.dev' },
