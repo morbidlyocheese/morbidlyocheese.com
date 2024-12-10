@@ -20,7 +20,7 @@ export default {
             links: [
                 { title: 'Twitch', url: 'https://www.twitch.tv/morbidlyocheese', icon: 'https://simpleicons.org/icons/twitch.svg', description: '', label: 'twitch' },
                 { title: 'Ko-fi', url: 'https://ko-fi.com/morbidlyocheese', icon: 'https://simpleicons.org/icons/kofi.svg', description: '', label: 'ko-fi' },
-                { title: 'Bluesky', url: 'https://bsky.app/profile/morbidlyocheese.itch.io', icon: 'https://simpleicons.org/icons/bluesky.svg', description: '', label: 'bluesky' },
+                { title: 'Bluesky', url: 'https://bsky.app/profile/morbidlyocheese.bsky.social', icon: 'https://simpleicons.org/icons/bluesky.svg', description: '', label: 'bluesky' },
                 { title: 'Straw.page', url: 'https://straw.page/draw?bio%3Dmorbidlyocheese', icon: 'https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://straw.page/draw?bio%3Dmorbidlyocheese&size=128', description: '', label: 'straw.page' },
                 { title: 'Instagram', url: 'https://www.instagram.com/morbidlyocheese/', icon: 'https://simpleicons.org/icons/instagram.svg', description: '', label: 'instagram' },
                 { title: 'itch.io', url: 'https://morbidlyocheese.itch.io', icon: 'https://simpleicons.org/icons/itchdotio.svg', description: '', label: 'itch.io' },
