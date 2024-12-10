@@ -23,7 +23,7 @@ export default {
                 { title: 'Bluesky', url: 'https://bsky.app/profile/morbidlyocheese.itch.io', icon: 'https://simpleicons.org/icons/bluesky.svg', description: '', label: 'bluesky' },
                 { title: 'Straw.page', url: 'https://straw.page/draw?bio%3Dmorbidlyocheese', icon: 'https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://straw.page/draw?bio%3Dmorbidlyocheese&size=128', description: '', label: 'straw.page' },
                 { title: 'Instagram', url: 'https://www.instagram.com/morbidlyocheese/', icon: 'https://simpleicons.org/icons/instagram.svg', description: '', label: 'instagram' },
-                { title: 'itch.io', url: 'https://morbidlyocheese.itch.io', icon: 'https://simpleicons.org/icons/itchdotio.svg', description: '', label: 'itch.io' },
+                { title: 'itch.io', url: 'https://staycheesygames.itch.io', icon: 'https://simpleicons.org/icons/itchdotio.svg', description: '', label: 'itch.io' },
                 { title: 'Github', url: 'https://github.com/morbidlyocheese', icon: 'https://simpleicons.org/icons/github.svg', description: 'github', label: 'github' },
                 { title: 'Amazon Wishlist', url: 'https://www.amazon.com/hz/wishlist/ls/18Q2VMNYLFLK5?ref_=wl_share', icon: 'https://simpleicons.org/icons/amazon.svg', description: '', label: 'amazon wishlist' },
                 { title: 'Redbubble', url: 'https://morbidlyocheese.redbubble.com', icon: 'https://simpleicons.org/icons/redbubble.svg', description: '', label: 'redbubble' },
