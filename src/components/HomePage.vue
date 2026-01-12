@@ -18,7 +18,7 @@
 export default {
     data() {
         return {
-            name: 'morbidlyocheese.com',
+            name: 'morbidlyocheese',
             links: [
                 { title: 'Twitch', url: 'https://www.twitch.tv/morbidlyocheese', icon: 'https://simpleicons.org/icons/twitch.svg', description: '', label: 'twitch' },
                 { title: 'Ko-fi', url: 'https://ko-fi.com/morbidlyocheese', icon: 'https://simpleicons.org/icons/kofi.svg', description: '', label: 'ko-fi' },
